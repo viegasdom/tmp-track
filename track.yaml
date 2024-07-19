@@ -1,7 +1,7 @@
 slug: untitled-track-vlzevq
 id: bzoya6zxzv9n
 revision: 1
-title: Untitled Track 1
+title: Untitled Track 1 2
 description: ""
 icon: ""
 tags: []
@@ -22,5 +22,4 @@ lab_config:
   feedback_recap_enabled: true
   feedback_tab_enabled: false
   lab_v2: false
-  override_challenge_layout: false
   loadingMessages: true
