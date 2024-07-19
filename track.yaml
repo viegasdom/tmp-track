@@ -10,6 +10,7 @@ developers:
 - bruno@instruqt.com
 instructors: []
 maintenance: true
+show_timer: true
 idle_timeout: 300
 timelimit: 1200
 lab_config:
@@ -21,5 +22,6 @@ lab_config:
   hideStopButton: true
   feedback_recap_enabled: true
   feedback_tab_enabled: false
-  lab_v2: false
+  lab_v2: true
+  override_challenge_layout: false
   loadingMessages: true
