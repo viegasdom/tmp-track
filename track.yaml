@@ -1,8 +1,7 @@
 slug: untitled-track-vlzevq
 id: bzoya6zxzv9n
 revision: 1
-title: sdasda sdadsdad 323 232332
-teaser: "23233232"
+title: sdasda sdadsdad 323 23233
 description: ""
 icon: ""
 tags:
@@ -13,7 +12,6 @@ developers:
 - joao@instruqt.com
 - bruno@instruqt.com
 instructors: []
-maintenance: true
 show_timer: true
 skipping_enabled: true
 idle_timeout: 300
