@@ -12,7 +12,7 @@ developers:
 - joao@instruqt.com
 - bruno@instruqt.com
 instructors: []
-maintenance: true
+maintenance: false
 show_timer: true
 skipping_enabled: true
 idle_timeout: 300
