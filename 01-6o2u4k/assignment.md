@@ -2,8 +2,8 @@
 slug: 6o2u4k
 id: jg4kbrr9kb0n
 type: challenge
-title: sdasdwerdgfdfgbfghnghnh
-teaser: rtertegsadasdasfggnfghng
+title: sdasd
+teaser: rtertegsadasdas
 difficulty: basic
 timelimit: 0
 lab_config:
