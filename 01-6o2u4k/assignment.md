@@ -2,7 +2,7 @@
 slug: 6o2u4k
 id: jg4kbrr9kb0n
 type: challenge
-title: sdasd
+title: sdasd asdasd
 teaser: rtertegsadasdas
 difficulty: basic
 timelimit: 0
