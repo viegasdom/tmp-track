@@ -20,8 +20,9 @@ lab_config:
   position: right
   extend_ttl: 0
   sidebar_enabled: true
-  hideStopButton: true
+  hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
   lab_v2: true
+  override_challenge_layout: false
   loadingMessages: true
