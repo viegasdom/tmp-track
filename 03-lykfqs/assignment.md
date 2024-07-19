@@ -2,7 +2,7 @@
 slug: lykfqs
 id: 0vjb1lyo2e4e
 type: challenge
-title: Untitled Challenge
+title: Untitled Challengesadd
 difficulty: basic
 timelimit: 0
 lab_config:
