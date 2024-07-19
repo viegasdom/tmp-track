@@ -8,9 +8,8 @@ difficulty: basic
 timelimit: 0
 lab_config:
   default_layout_sidebar_size: 0
-  custom_layout: '{"root":{"children":[{"leaf":{"tabs":[],"size":10}},{"leaf":{"tabs":["assignment"],"activeTabId":"assignment","size":88}}],"orientation":"Horizontal"}}'
 ---
 
-dfgsdfgf
+dfgsdfgfhytyrhyujytjtyhj
 dfgbdfgbhdf
 67 urtyuhyrth
